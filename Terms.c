@@ -487,58 +487,58 @@
 
 /* 1-DIGIT VALUE TO HEXADECIMAL VALUE EXERCISE */
 
-int main()
-{
-    int hex;
+// int main()
+// {
+//     int hex;
     
-    printf("Enter a character in hexadecimal format (0-9): ");
-    scanf("%d", &hex);
+//     printf("Enter a character in hexadecimal format (0-9): ");
+//     scanf("%d", &hex);
     
-    switch (hex) {
-        case 0:
-            printf("Binary: 0000\n");
-            break;
+//     switch (hex) {
+//         case 0:
+//             printf("Binary: 0000\n");
+//             break;
 
-        case 1:
-            printf("Binary: 0001\n");
-            break;
+//         case 1:
+//             printf("Binary: 0001\n");
+//             break;
 
-        case 2:
-            printf("Binary: 0010\n");
-            break;
+//         case 2:
+//             printf("Binary: 0010\n");
+//             break;
 
-        case 3:
-            printf("Binary: 0011\n");
-            break;
+//         case 3:
+//             printf("Binary: 0011\n");
+//             break;
 
-        case 4:
-            printf("Binary: 0100\n");
-            break;
+//         case 4:
+//             printf("Binary: 0100\n");
+//             break;
 
-        case 5:
-            printf("Binary: 0101\n");
-            break;
+//         case 5:
+//             printf("Binary: 0101\n");
+//             break;
 
-        case 6:
-            printf("Binary: 0110\n");
-            break;
+//         case 6:
+//             printf("Binary: 0110\n");
+//             break;
 
-        case 7:
-            printf("Binary: 0111\n");
-            break;
+//         case 7:
+//             printf("Binary: 0111\n");
+//             break;
 
-        case 8:
-            printf("Binary: 1000\n");
-            break;
+//         case 8:
+//             printf("Binary: 1000\n");
+//             break;
 
-        case 9:
-            printf("Binary: 1001\n");
-            break;
+//         case 9:
+//             printf("Binary: 1001\n");
+//             break;
 
-        default:
-            printf("Invalid input!\n");
-            break;
-    }
+//         default:
+//             printf("Invalid input!\n");
+//             break;
+//     }
     
-    return 0;
-}
+//     return 0;
+// }
